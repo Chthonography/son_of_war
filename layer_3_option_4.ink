@@ -3,6 +3,6 @@
 TODO: KHAI
 
 + Option 1
-   //-> layer_4_option_7
+   -> layer_4_option_7
 + Option 2
-   //-> layer_4_option_8
+   -> layer_4_option_8
