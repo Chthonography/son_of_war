@@ -1,6 +1,6 @@
 === layer_2_option_2 ===
 
-TODO: Will
+TODO: Khai
 
 + Option 1
     -> layer_3_option_3
