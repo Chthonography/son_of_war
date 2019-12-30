@@ -1,6 +1,6 @@
 === layer_4_option_2 ===
 
-TODO: KHAI
+TODO: KHAI (connection)
 
 + Option 1
    //-> layer_5_option_3
