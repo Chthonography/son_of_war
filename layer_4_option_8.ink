@@ -3,6 +3,6 @@
 TODO: KHAI (connection)
 
 + Option 1
-   //-> layer_5_option_15
+   -> layer_5_option_15
 + Option 2
-   //-> layer_5_option_16
+   -> layer_5_option_16
