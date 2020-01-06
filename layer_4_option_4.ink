@@ -3,6 +3,6 @@
 TODO: WILL (connection)
 
 + Option 1
-   //-> layer_5_option_7
+   -> layer_5_option_7
 + Option 2
-   //-> layer_5_option_8
+   -> layer_5_option_8
