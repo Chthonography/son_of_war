@@ -1,3 +1,0 @@
-# Son of War
-
-Son of War is a choose-your-own adventure story written out of order. Each paragraph is followed by a choice with two options, which lead to new branches of the story. The paragraphs that the two choices lead to are written by different authors. The paragraphs were written in an order which maximizes the number of paragraphs which were written to connect two previously written paragraphs.
